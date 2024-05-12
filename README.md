@@ -1,3 +1,7 @@
+ <p >
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20FINALIZADO&style=for-the-badge"/>
+</p>
+
 # Aprenda Japonês adicionando palavras com sua tradução
 ![image](https://github.com/irllamartins/Japones_com_GEMINI/assets/39415559/cf11c1ce-8c85-446a-9dce-6e14415011a7)
 
